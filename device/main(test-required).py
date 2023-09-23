@@ -1,3 +1,10 @@
+"""
+Author: saornek
+Status: Test Required
+Purpose: Java's handheld device code. 
+Next Step: Integrate a code that will also upload the dog's picture to the database.
+"""
+
 import tkinter as tk
 import firebase_admin
 from firebase_admin import credentials, db
